@@ -1,4 +1,3 @@
-import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Bienvenida from "./components/Bienvenida";
 import Carta from "./components/Carta";
